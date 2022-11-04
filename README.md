@@ -21,5 +21,5 @@ MapDetails: A more detailed description of the state broadband map(s) that are p
 MapLink: The weblink to the primary state broadband map  
 MapLink2: the weblink to the secondary state broadband map (where applicable). 
 
-# US50_Fabric27APR2022.geojson
+# US50_Fabric4Nov2022.geojson
 This spatial file contains the same data as US_BroadbandMapsData.csv, but in a format that can be displayed using mapping software (i.e. QGIS, ArcGIS, etc...).The preview is interactive - click a state to view the associated data.
